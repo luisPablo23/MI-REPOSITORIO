@@ -1,0 +1,20 @@
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\bin\Debug\net8.0-windows\ACTIVIDAD 02.exe
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\bin\Debug\net8.0-windows\ACTIVIDAD 02.deps.json
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\bin\Debug\net8.0-windows\ACTIVIDAD 02.runtimeconfig.json
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\bin\Debug\net8.0-windows\ACTIVIDAD 02.dll
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\bin\Debug\net8.0-windows\ACTIVIDAD 02.pdb
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\ACTIVIDAD 02_MarkupCompile.cache
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\ACTIVIDAD 02_MarkupCompile.lref
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\ACTIVIDAD 02.g.resources
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\ACTIVIDAD 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\ACTIVIDAD 02.AssemblyInfoInputs.cache
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\ACTIVIDAD 02.AssemblyInfo.cs
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\ACTIVIDAD 02.csproj.CoreCompileInputs.cache
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\ACTIVIDAD 02.dll
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\refint\ACTIVIDAD 02.dll
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\ACTIVIDAD 02.pdb
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\ACTIVIDAD 02.genruntimeconfig.cache
+C:\Users\Diego Ascarraga\source\repos\ACTIVIDAD 02\ACTIVIDAD 02\obj\Debug\net8.0-windows\ref\ACTIVIDAD 02.dll
